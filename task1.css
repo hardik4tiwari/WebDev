@@ -1,8 +1,57 @@
-body
+h3
 {
-    background-color: white;
+    background-color:#b5b5b6;
+    line-height: 60px;
+    text-align: end;
+    font-family: 'Courier New', Courier, monospace;
+    
 }
-body
+a:hover
 {
-    background-color: gray;
+    text-decoration: none;
+
+}
+body.a
+{
+    background-color: #202124;
+}
+h1.d
+{
+    text-align: center;
+}
+h1.e
+{
+    text-align: end;
+}
+h1.i
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table,th,td
+{
+    text-align: center;
+    border: 2px solid;
+}
+table
+{
+    padding: 100%;
+    width:100%;
+    border-collapse: collapse;
+}
+body.t3
+{
+    background-color: #202124;
+}
+body.t2
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+input.t2_i
+{
+    background-color: #202124;
+    color: aliceblue;
+    text-align: end;
 }
